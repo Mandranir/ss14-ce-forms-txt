@@ -9,7 +9,6 @@
 
 [bold][head=1][italic]                        	Prices[/italic][/head][/bold]
 
-
 [bold]Glossary:[/bold]
 [bullet] Purity: Percentile for which the main solution is in the potion.
 [bullet] Most prices are based on raw [bold]merchant[/bold] value (brad's) and [bold]may vary[/bold] depending on current [bold]blacksmith[/bold] / [bold]merchant[/bold] prices.
@@ -20,18 +19,21 @@
     [bullet] [color=#a44322]c[/color] = Copper
     [bullet] [color=#636363]s[/color] = Silver
     [bullet] [color=#da9100]g[/color] = Gold
-[bullet] All healing services (including resurrection) at the shop are [bold]FREE[/bold], just ask.
+[bullet][bold][color=#1eff00]All healing services (including resurrection) at the shop are FREE, just ask.[/color][/bold]
 
-[bold][color=#a8ccd7]Vials[/color][/bold] (varies with merchant prices)
-Vial costs are added to solution costs if you do not provide them.
+[bold][color=#a8ccd7]Vials[/color][/bold] (varies with merchant & blacksmith prices)
+Vial costs [bold]are added[/bold] to solution costs [bold]if you do not provide them[/bold].
+[bold][color=#976937]Reinforced[/color][/bold] vials do not break if thrown or while being blown up.
 [bullet]Tiny (5u): [color=#a44322]2c[/color]
 [bullet]Small (10u): [color=#a44322]4c[/color]
 [bullet]Medium (50u): [color=#636363]1s[/color]
+[bullet][bold][color=#976937]Reinforced[/color][/bold] Tiny (5u): [color=#636363]1.5s[/color]
+[bullet][bold][color=#976937]Reinforced[/color][/bold] Small (10u): [color=#636363]1.8s[/color]
+[bullet][bold][color=#976937]Reinforced[/color][/bold] Medium (50u): [color=#636363]2.4s[/color]
+[bullet][bold][color=#cfa959]Alchemical bomb[/color][/bold] (10u reagent cloud ([bold]Destroyed on use![/bold])): [color=#636363]7.6s[/color]
 
-We do not provide reinforced vials nor alchemical bombs, ask your local [bold]merchant[/bold] / [bold]blacksmith[/bold].
 
-
-[head=2][color=#cc0002]P[color=#fce556]O[color=#0070dd]T[color=#82d254]I[color=#1eff00]O[color=#87cbde]N[color=#cc0002]S[/color][/color][/color][/color][/color][/color][/color][/head]
+[head=2][color=#cc0002]P[color=#fce556]O[color=#0070dd]T[color=#82d254]I[color=#1eff00]O[color=#87cbde]N[color=#cc0002]S[/color][/color][/color][/color][/color][/color][/color][/head] (To take with you on your adventures)
 
 
 [bold][color=#fce556]Accelerating Solution[/bold][/color] (Merchant([bold]10[/bold]% purity): [color=#a44322]6c[/color]/u):
@@ -71,7 +73,7 @@ We do not provide reinforced vials nor alchemical bombs, ask your local [bold]me
 
 [bold][color=#cc0002]Healing Solution[/bold][/color] (Merchant ([bold]10[/bold]% purity): [color=#a44322]6c[/color]/u):
 
-[italic]Heals all cuts and bruises, also reduces bleeding (does not heal heartbreak...).[/italic]
+[italic]Heals all cuts and bruises, also reduces bleeding ([bold]does not heal heartbreak...[/bold]).[/italic]
  
 [bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.5s[/color] / [color=#636363]3s[/color] / [color=#da9100]1.5g[/color]
     	[bullet] Side effect([bold]25[/bold]%): Coughing
@@ -83,7 +85,7 @@ We do not provide reinforced vials nor alchemical bombs, ask your local [bold]me
 
 [bold][color=#0070dd]Liquid mana solution[/bold][/color] (Merchant ([bold]10[/bold]% purity): [color=#a44322]8c[/color]/u):
 
-[italic]A substance that causes a rapid regeneration of magical energy in the body. (Keep these away from crazy magicians!)[/italic]
+[italic]A substance that causes a rapid regeneration of magical energy in the body. ([bold]Keep these away from crazy magicians![/bold])[/italic]
 
 [bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]2s[/color] / [color=#636363]4s[/color] / [color=#da9100]2g[/color]
     	[bullet] Side effects([bold]25[/bold]%): Also restores mana induced wounds.
@@ -102,7 +104,17 @@ We do not provide reinforced vials nor alchemical bombs, ask your local [bold]me
 
 [bold]All the rest[/bold] (Merchant: [bold]None[/bold]):
 
-[italic]Contains all kinds of solutions that aren't findable by the merchant. Soothing, Slowing, Poison, etc...[/italic]
+[italic]Contains all kinds of solutions that aren't findable by the merchant. 
+[bullet] Soothing (Heals burns)
+[bullet] Slowing (Slows down)
+[bullet] Poison (Kills target over time)
+[bullet] Burning (Inflicts burns wounds and burns environment)
+[bullet] Warming (Heals frostbites)
+[bullet] Mana depleting (Causes mana induced wounds)
+[bullet] Antimagic (Burns target mana)
+[bullet] Asphyxiating (Makes people gasp for air)[/italic]
 
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]2s[/color] / [color=#636363]4s[/color] / [color=#da9100]2g[/color]
+These are pretty unusual so slightly more expensive.
+
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]3s[/color] / [color=#636363]6s[/color] / [color=#da9100]3g[/color]
     	[bullet] Side effects(25%): Depends on the solution (ask alchemist)
