@@ -1,20 +1,22 @@
-                                         █▄  ▄█▄  ▄█
-                                          ████████
-	▀████████▄               	████████                 ▄████████▀
-         ▀███████▄                                           ▄███████▀
-               	▀██████▄ 	[mono][bolditalic]ILYOS MAGIC SHOP[/bolditalic][/mono] ▄██████▀
-                                 ▀▀▀                         	▀▀▀
+                                               █▄  ▄█▄  ▄█
+                                               ████████
+	▀████████▄                  	████████                   ▄████████▀
+         ▀███████▄                                                 ▄███████▀
+               	▀██████▄ 	[mono][bolditalic]ILYOS MAGIC SHOP[/bolditalic][/mono]  ▄██████▀
+                                    ▀▀▀                         	▀▀▀
 [color=#7dad60][italic]                        	In plantis confidimus, in vita sequimur.[/italic][/color]
 
 
-[color=#7dad60][head=1][italic]           	Sought out plants[/italic][/head][/color]
+[bold][color=#7dad60][head=1][italic]             	Sought out plants[/italic][/head][/color][/bold]
 
-These plants and furnitures are used for [bold]better quality potions[/bold] and services, stay on the lookout during your adventures, especially if you're looking for specific potion needs!
+These plants are used for [bold]better quality potions[/bold] and services, stay on the lookout during your adventures, especially if you're looking for specific potion needs!
 
 [bullet]Fly Agarics ([bold][color=#cc0002]Healing Solution[/color][/bold]) - 5c
-[bullet]Air Lillies ([bold][color=#a8ccd7]Air Solution[/color][/bold]) - 4c
+[bullet]Air Lillies ([bold][color=#a8ccd7]Air Solution[/color][/bold]) - 5c
 [bullet]Blue Amanitas ([bold][color=#0070dd]Liquid mana solution[/color][/bold]) - 4c
 [bullet]Sage ([bold][color=#0070dd]Liquid mana solution[/color][/bold]) - 2c
 [bullet]Bloodroses - 2c
+
+You may use ingredients as money for buying my potions!
 
 [bolditalic]Disclaimer - I may offer less for or stop buying ingredients I have plenty of.[/bolditalic]

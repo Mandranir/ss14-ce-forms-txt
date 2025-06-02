@@ -1,13 +1,13 @@
-                                         █▄  ▄█▄  ▄█
-                                          ████████
-	▀████████▄               	████████                 ▄████████▀
-         ▀███████▄                                           ▄███████▀
-               	▀██████▄ 	[mono][bolditalic]ILYOS MAGIC SHOP[/bolditalic][/mono] ▄██████▀
-                                 ▀▀▀                         	▀▀▀
+                                               █▄  ▄█▄  ▄█
+                                               ████████
+	▀████████▄                  	████████                   ▄████████▀
+         ▀███████▄                                                 ▄███████▀
+               	▀██████▄ 	[mono][bolditalic]ILYOS MAGIC SHOP[/bolditalic][/mono]  ▄██████▀
+                                    ▀▀▀                         	▀▀▀
 [color=#7dad60][italic]                        	In plantis confidimus, in vita sequimur.[/italic][/color]
 
 
-[head=1][italic]                     	Prices[/italic][/head]
+[bold][head=1][italic]                        	Prices[/italic][/head][/bold]
 
 
 [bold]Glossary:[/bold]
@@ -29,6 +29,9 @@ Vial costs are added to solution costs if you do not provide them.
 [bullet]Medium (50u): [color=#636363]1s[/color]
 
 We do not provide reinforced vials nor alchemical bombs, ask your local [bold]merchant[/bold] / [bold]blacksmith[/bold].
+
+
+[head=2][color=#cc0002]P[color=#fce556]O[color=#0070dd]T[color=#82d254]I[color=#1eff00]O[color=#87cbde]N[color=#cc0002]S[/color][/color][/color][/color][/color][/color][/color][/head]
 
 
 [bold][color=#fce556]Accelerating Solution[/bold][/color] (Merchant([bold]10[/bold]% purity): [color=#a44322]6c[/color]/u):
