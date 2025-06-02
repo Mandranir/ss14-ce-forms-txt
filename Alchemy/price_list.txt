@@ -12,70 +12,68 @@
 
 [bold]Glossary:[/bold]
 [bullet] Purity: Percentile for which the main solution is in the potion.
-[bullet] Most prices are based on trade cabinets value.
+[bullet] Most prices are based on raw [bold]merchant[/bold] value (brad's) and [bold]may vary[/bold] depending on current [bold]blacksmith[/bold] / [bold]merchant[/bold] prices.
 [bullet] All volume prices are as follows: 5u / 10u / 50u
-[bullet] "Only with [bold]Lumishroom[/bold]" versions of the potions may take time to make.
 [bullet] All prices can be bartered with Alchemical Ingredients (cf.[bold]Sought out plants[/bold]).
+[bullet] Discounts will be granted if potions are bought in bulk or favored for returned customers.
 
 [bold][color=#a8ccd7]Vials[/color][/bold]
 Vial costs are added to solution costs if you do not provide them.
-[bullet]Tiny (5u): [color=#a44322]1c[/color]
-[bullet]Small (10u): [color=#a44322]2c[/color]
+[bullet]Tiny (5u): [color=#a44322]2c[/color]
+[bullet]Small (10u): [color=#a44322]4c[/color]
 [bullet]Medium (50u): [color=#636363]1s[/color]
 
-We do not provide reinforced vials nor alchemical bombs, ask your local [bold]blacksmith[/bold].
+We do not provide reinforced vials nor alchemical bombs, ask your local [bold]merchant[/bold] / [bold]blacksmith[/bold].
 
 
-[bold][color=#a8ccd7]Air Solution[/bold][/color] (Trade cabinet: [bold]None[/bold]):
+[bold][color=#a8ccd7]Air Solution[/bold][/color] (Merchant([bold]10[/bold]% purity): [color=#a44322]7c[/color]/u):
 
 [italic]A refreshing liquid that saturates the body with air.[/italic]
  
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1s[/color] / [color=#636363]2s[/color] / [color=#da9100]1g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.7s[/color] / [color=#636363]3.4s[/color] / [color=#da9100]1.7g[/color]
     	[bullet] Side effect([bold]25[/bold]%): Coughing
-[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]60[/bold]% purity): [color=#636363]2.8s[/color] / [color=#636363]5.6s[/color] / [color=#da9100]2.8g[/color]
+[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]60[/bold]% purity): [color=#636363]4.2s[/color] / [color=#636363]8.4s[/color] / [color=#da9100]4.2g[/color]
     	[bullet] Side effect([bold]20[/bold]%): Minor drunkness (contains booze)
-[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#636363]4s[/color] / [color=#636363]8s[/color] / [color=#da9100]4g[/color]
+[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#636363]7s[/color] / [color=#da9100]1.4g[/color] / [color=#da9100]7g[/color]
 
 
-[bold][color=#cc0002]Healing Solution[/bold][/color] (Trade cabinet ([bold]10[/bold]% purity): [color=#a44322]8c[/color]/u):
+[bold][color=#cc0002]Healing Solution[/bold][/color] (Merchant ([bold]10[/bold]% purity): [color=#a44322]6c[/color]/u):
 
 [italic]Heals all cuts and bruises, also reduces bleeding (does not heal heartbreak...).[/italic]
  
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1s[/color] / [color=#636363]2s[/color] / [color=#da9100]1g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.5s[/color] / [color=#636363]3s[/color] / [color=#da9100]1.5g[/color]
     	[bullet] Side effect([bold]25[/bold]%): Coughing
-[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]53.3[/bold]% purity): [color=#636363]2.8s[/color] / [color=#636363]5.6s[/color] / [color=#da9100]2.8g[/color]
+[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]53.3[/bold]% purity): [color=#636363]3.2s[/color] / [color=#636363]6.4s[/color] / [color=#da9100]3.2g[/color]
     	[bullet] Side effect([bold]40[/bold]%): Minor hallucinations
     	[bullet] Side effect([bold]6.4[/bold]%): Coughing
-[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#636363]4s[/color] / [color=#636363]8s[/color] / [color=#da9100]4g[/color]
-
-
-[bold][color=#0070dd]Liquid mana solution[/bold][/color] (Trade cabinet ([bold]10[/bold]% purity): [color=#636363]1.2s[/color]/u):
-
-[italic]A substance that causes a rapid regeneration of magical energy in the body. (Keep these away from crazy magicians!)[/italic]
-
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.5s[/color] / [color=#636363]3s[/color] / [color=#da9100]1.5g[/color]
-    	[bullet] Side effects([bold]25[/bold]%): Also restores mana induced wounds.
-[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]62.4[/bold]% purity): [color=#636363]3.8s[/color] / [color=#636363]7.6s[/color] / [color=#da9100]3.8g[/color]
-    	[bullet] Side effect([bold]25.2[/bold]%): Minor drunkness (contains booze)
-    	[bullet] Side effect([bold]12.4[/bold]%): Coughing
 [bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#636363]6s[/color] / [color=#da9100]1.2g[/color] / [color=#da9100]6g[/color]
 
 
-[bold][color=#87cbde]Mana healing solution[/bold][/color] (Trade cabinet ([bold]10[/bold]% purity): [color=#636363]1.2s[/color]/u):
+[bold][color=#0070dd]Liquid mana solution[/bold][/color] (Merchant ([bold]10[/bold]% purity): [color=#a44322]8c[/color]/u):
+
+[italic]A substance that causes a rapid regeneration of magical energy in the body. (Keep these away from crazy magicians!)[/italic]
+
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]2s[/color] / [color=#636363]4s[/color] / [color=#da9100]2g[/color]
+    	[bullet] Side effects([bold]25[/bold]%): Also restores mana induced wounds.
+[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]62.4[/bold]% purity): [color=#636363]5s[/color] / [color=#636363]1g[/color] / [color=#da9100]5g[/color]
+    	[bullet] Side effect([bold]25.2[/bold]%): Minor drunkness (contains booze)
+    	[bullet] Side effect([bold]12.4[/bold]%): Coughing
+[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#636363]8s[/color] / [color=#da9100]1.6g[/color] / [color=#da9100]8g[/color]
+
+
+[bold][color=#87cbde]Mana healing solution[/bold][/color] (Merchant ([bold]10[/bold]% purity): [color=#a44322]7c[/color]/u):
 
 [italic]A liquid that affects the mana within the body, revitalising areas dried up by mana.[/italic]
 
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.5s[/color] / [color=#636363]3s[/color] / [color=#da9100]1.5g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.7s[/color] / [color=#636363]3.4s[/color] / [color=#da9100]1.7g[/color]
     	[bullet] Side effects([bold]25[/bold]%): Restores mana
-[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity, only with [bold]Lumishroom[/bold]): [color=#636363]6s[/color] / [color=#da9100]1.2g[/color] / [color=#da9100]6g[/color]
 
-[bold]All the rest[/bold] (Trade cabinet: [bold]None[/bold]):
+[bold]All the rest[/bold] (Merchant: [bold]None[/bold]):
 
-[italic]Contains all kinds of solutions that aren't findable in the cabinets. Soothing, Slowing, Poison, etc...[/italic]
+[italic]Contains all kinds of solutions that aren't findable by the merchant. Soothing, Slowing, Poison, etc...[/italic]
 
 [bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]2s[/color] / [color=#636363]4s[/color] / [color=#da9100]2g[/color]
     	[bullet] Side effects(25%): ???
-[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity, only with [bold]Lumishroom[/bold]): [color=#636363]6s[/color] / [color=#da9100]1.2g[/color] / [color=#da9100]6g[/color]
 
 TODO
 - Acceleration
