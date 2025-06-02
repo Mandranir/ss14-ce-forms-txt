@@ -1,13 +1,13 @@
-                                               █▄  ▄█▄  ▄█
-                                              	████████
-	▀████████▄                 	████████                   	▄████████▀
-         ▀███████▄                                                 ▄███████▀
-               	▀██████▄ 	[mono][bolditalic]ILYOS MAGIC SHOP[/bolditalic][/mono]  ▄██████▀
-                                 ▀▀▀                               	▀▀▀
+                                         █▄  ▄█▄  ▄█
+                                          ████████
+	▀████████▄               	████████                 ▄████████▀
+         ▀███████▄                                           ▄███████▀
+               	▀██████▄ 	[mono][bolditalic]ILYOS MAGIC SHOP[/bolditalic][/mono] ▄██████▀
+                                 ▀▀▀                         	▀▀▀
 [color=#7dad60][italic]                        	In plantis confidimus, in vita sequimur.[/italic][/color]
 
 
-[head=1][italic]                       	Prices[/italic][/head]
+[head=1][italic]                     	Prices[/italic][/head]
 
 
 [bold]Glossary:[/bold]
@@ -31,7 +31,7 @@ Vial costs are added to solution costs if you do not provide them.
 We do not provide reinforced vials nor alchemical bombs, ask your local [bold]merchant[/bold] / [bold]blacksmith[/bold].
 
 
-[bold][color=#a8ccd7]Accelerating Solution[/bold][/color] (Merchant([bold]10[/bold]% purity): [color=#a44322]6c[/color]/u):
+[bold][color=#fce556]Accelerating Solution[/bold][/color] (Merchant([bold]10[/bold]% purity): [color=#a44322]6c[/color]/u):
 
 [italic]Increased muscle tone, allowing creatures to move and react faster than normal.[/italic]
  
