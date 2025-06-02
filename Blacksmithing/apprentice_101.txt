@@ -1,0 +1,13 @@
+TODO
+
+Ideas:
+- Give general goal
+    - Keeping the wood stocked
+    - Look for ores (make sure to be prepared when venturing out)
+    - Trade gold
+    - Advertise the shop to adventurers in town (go in the tavern, point people to quest board where price_list and buy_list will be also displayed, give shop directions)
+- Trade gold
+- Gathering ores
+- Gathering wood
+- Tools
+- Ask your blacksmith help if needed

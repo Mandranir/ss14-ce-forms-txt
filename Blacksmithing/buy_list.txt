@@ -1,0 +1,5 @@
+TODO
+
+Ideas:
+- Ores / recyclable items to be bought
+- Remind that ingredients cost can be bartered for equipement & services.

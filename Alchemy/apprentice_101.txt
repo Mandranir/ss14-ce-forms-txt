@@ -1,0 +1,17 @@
+TODO
+
+Ideas:
+- Give general goal & reason why every time
+    - Keeping the essences stocked
+    - Keeping the wood stocked
+    - Keeping the barrels stocked (water atleast)
+    - Keeping the vials stocked
+    - Bring as much plants as possible and favour variety (better to have 10 each than 50 of one and none of the others)
+    - Advertise the shop to adventurers in town (go in the tavern, point people to quest board where price_list and buy_list will be also displayed, give shop directions)
+    - Aid the alchemist by asking what people need and see if you can accomodate them if demand is high.
+- Buying Vials
+- Essence collector
+- Gathering plants
+- Gathering wood
+- Tools
+- Always consult the alchemist if needed

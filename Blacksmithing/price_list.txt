@@ -1,0 +1,6 @@
+TODO
+
+Ideas:
+- Kinda the same as alchemist potion prices but instead of volumetric price increase, ponder on material quality increase.
+- List services (sharpening, locksmithing...)
+- General commodities (workbench & anvil stuff)

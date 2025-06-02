@@ -1,0 +1,14 @@
+TODO
+
+Ideas:
+- Give steps and proper ratios for price_list.txt potions (currently in my head).
+- Give general tips on solution cleaning (quartz + favouring alt recipe, Lumishroom)
+- Give all alchemical ingredients (plants, rocks, glands...) units when grinded.
+    - Ingredients juices unit (when grinded with mortar):
+        - Quartz: 7
+        - Sage: 15
+        - Fly Agaric: 3
+        - Blood Rose: 12
+        - Blue Amanita: 5
+        - Lumishroom: 4
+        - Air lily: 4
