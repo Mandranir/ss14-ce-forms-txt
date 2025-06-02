@@ -20,7 +20,7 @@
     [bullet] [color=#a44322]c[/color] = Copper
     [bullet] [color=#636363]s[/color] = Silver
     [bullet] [color=#da9100]g[/color] = Gold
-
+[bullet] All healing services (including resurrection) at the shop are [bold]FREE[/bold], just ask.
 
 [bold][color=#a8ccd7]Vials[/color][/bold] (varies with merchant prices)
 Vial costs are added to solution costs if you do not provide them.
