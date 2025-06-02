@@ -16,14 +16,27 @@
 [bullet] All volume prices are as follows: 5u / 10u / 50u
 [bullet] All prices can be bartered with Alchemical Ingredients (cf.[bold]Sought out plants[/bold]).
 [bullet] Discounts will be granted if potions are bought in bulk or favored for returned customers.
+[bullet] Currency:
+    [bullet] [color=#a44322]c[/color] = Copper
+    [bullet] [color=#636363]s[/color] = Silver
+    [bullet] [color=#da9100]g[/color] = Gold
 
-[bold][color=#a8ccd7]Vials[/color][/bold]
+
+[bold][color=#a8ccd7]Vials[/color][/bold] (varies with merchant prices)
 Vial costs are added to solution costs if you do not provide them.
 [bullet]Tiny (5u): [color=#a44322]2c[/color]
 [bullet]Small (10u): [color=#a44322]4c[/color]
 [bullet]Medium (50u): [color=#636363]1s[/color]
 
 We do not provide reinforced vials nor alchemical bombs, ask your local [bold]merchant[/bold] / [bold]blacksmith[/bold].
+
+
+[bold][color=#a8ccd7]Accelerating Solution[/bold][/color] (Merchant([bold]10[/bold]% purity): [color=#a44322]6c[/color]/u):
+
+[italic]Increased muscle tone, allowing creatures to move and react faster than normal.[/italic]
+ 
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.5s[/color] / [color=#636363]3s[/color] / [color=#da9100]1.5g[/color]
+    	[bullet] Side effect([bold]25[/bold]%): Jittering
 
 
 [bold][color=#a8ccd7]Air Solution[/bold][/color] (Merchant([bold]10[/bold]% purity): [color=#a44322]7c[/color]/u):
@@ -35,6 +48,22 @@ We do not provide reinforced vials nor alchemical bombs, ask your local [bold]me
 [bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]60[/bold]% purity): [color=#636363]4.2s[/color] / [color=#636363]8.4s[/color] / [color=#da9100]4.2g[/color]
     	[bullet] Side effect([bold]20[/bold]%): Minor drunkness (contains booze)
 [bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#636363]7s[/color] / [color=#da9100]1.4g[/color] / [color=#da9100]7g[/color]
+
+
+[bold][color=#82d254]Antidote[/bold][/color] (Merchant([bold]10[/bold]% purity): [color=#a44322]7c[/color]/u):
+
+[italic]An effective antidote used for treating most common poisons.[/italic]
+ 
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.7s[/color] / [color=#636363]3.4s[/color] / [color=#da9100]1.7g[/color]
+    	[bullet] Side effect([bold]25[/bold]%): Coughing
+
+
+[bold][color=#630f0f]Blood-healing Solution[/bold][/color] (Merchant([bold]10[/bold]% purity): [color=#a44322]4c[/color]/u):
+
+[italic]Coming into contact with the body restores blood levels of the same type used by that body.[/italic]
+ 
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.2s[/color] / [color=#636363]2.4s[/color] / [color=#da9100]1.2g[/color]
+    	[bullet] Side effect([bold]25[/bold]%): Minor hallucinations
 
 
 [bold][color=#cc0002]Healing Solution[/bold][/color] (Merchant ([bold]10[/bold]% purity): [color=#a44322]6c[/color]/u):
@@ -73,9 +102,4 @@ We do not provide reinforced vials nor alchemical bombs, ask your local [bold]me
 [italic]Contains all kinds of solutions that aren't findable by the merchant. Soothing, Slowing, Poison, etc...[/italic]
 
 [bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]2s[/color] / [color=#636363]4s[/color] / [color=#da9100]2g[/color]
-    	[bullet] Side effects(25%): ???
-
-TODO
-- Acceleration
-- Blood restoration
-- Antidote
+    	[bullet] Side effects(25%): Depends on the solution (ask alchemist)
