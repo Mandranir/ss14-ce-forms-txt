@@ -9,13 +9,12 @@
 
 [color=#7dad60][head=1][italic]           	Sought out plants[/italic][/head][/color]
 
-These plants and furnitures are used for better quality potions and services, stay on the lookout during your adventures, especially if you're looking for specific potion needs!
+These plants and furnitures are used for [bold]better quality potions[/bold] and services, stay on the lookout during your adventures, especially if you're looking for specific potion needs!
 
-[bullet]Fly Agarics ([bold][color=#cc0002]Healing Solution[/bold][/color]) - 5c
-[bullet]Energyshards (up to 3) - 4c
-[bullet]Air Lillies ([bold][color=#a8ccd7]Air Solution[/bold][/color]) - 4c
-[bullet]Blue Amanitas ([bold][color=#0070dd]Liquid mana solution[/bold][/color]) - 4c
-[bullet]Sage - 2c
+[bullet]Fly Agarics ([bold][color=#cc0002]Healing Solution[/color][/bold]) - 5c
+[bullet]Air Lillies ([bold][color=#a8ccd7]Air Solution[/color][/bold]) - 4c
+[bullet]Blue Amanitas ([bold][color=#0070dd]Liquid mana solution[/color][/bold]) - 4c
+[bullet]Sage ([bold][color=#0070dd]Liquid mana solution[/color][/bold]) - 2c
 [bullet]Bloodroses - 2c
 
-[bolditalic]Disclaimer - I may offer less for ingredients I have plenty of[/bolditalic]
+[bolditalic]Disclaimer - I may offer less for or stop buying ingredients I have plenty of.[/bolditalic]
