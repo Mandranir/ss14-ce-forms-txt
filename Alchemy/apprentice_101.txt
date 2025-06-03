@@ -15,3 +15,72 @@ Ideas:
 - Gathering wood
 - Tools
 - Always consult the alchemist if needed
+
+
+                                               █▄  ▄█▄  ▄█
+                                               ████████
+	▀████████▄                  	████████                   ▄████████▀
+         ▀███████▄                                                 ▄███████▀
+               	▀██████▄ 	[mono][bolditalic]ILYOS MAGIC SHOP[/bolditalic][/mono]  ▄██████▀
+                                    ▀▀▀                         	▀▀▀
+[color=#7dad60][italic]                        	In plantis confidimus, in vita sequimur.[/italic][/color]
+
+[bold][color=#7dad60][head=1][italic]             	Alchemist Apprentice 101[/italic][/head][/color][/bold]
+
+Welcome to the shop, apprentice!
+
+This guide aims to give you directions to help your alchemist in their duties or provide some tips for a beginner alchemist. 
+This is not an Alchemist guide, it'll cover some aspects of alchemy but not the entirety of it.
+
+Let's cover the basics.
+
+[head=2]The Alchemist's Role[/head]
+
+[italic]Wise, humble and caring. Each death, a burden weighing on their shoulders.
+For their duty, is to keep the mortals standing and the crystal unshattered.[/italic] 
+
+The role of the alchemist is to provide alchemical solutions to the town as well as healing / bringing back
+the wounded with their vivification staff.
+
+Alchemical solutions can have multiple uses, inspect your guidebook for a detailed answer but in brief:
+[bullet]Utility: [italic]Run faster, slow down or drain off the mana your opennents.[/italic]
+[bullet]Healing: [italic]Covers all kinds of remedies to treat all kinds of wounds.[/italic]
+[bullet]Harmful: [italic]It could be poison that can be put on arrows or burning potions that can be thrown.[/italic]
+
+Though it is not their main duty, you will see alchemists keep the demiplane crystal filled with mana.
+
+[head=2]The Alchemist's Needs[/head]
+
+[head=3]Essences[/head]
+
+Essences are the main ingredients of solutions.
+Alchemists start with 6 vials in their lockers covering the most basic ones (Ordo, Aer, Terra, Victus, Aqua, Perditio).
+Eventually the alchemist will run out of them, to avoid that, here are some ways you can replenish them:
+[bullet]Use the [bold]Essence Collector[/bold] with a [bold]charged [color=#025b83]energyshard[/color][bold] near an [bold]essence node[/bold].
+    [bullet]Here are some node locations:
+        [bullet]Above tavern.
+        [bullet]Above house n3 (north west of town).
+        [bullet]East gate, immediatly north, go inside west mineshaft.
+        [bullet]East gate, follow road, at crossroad go north and follow road till the end.
+        [bullet]South gate, immediatly east, in the house backyard.
+        [bullet]South of town, underground.
+[bullet]Use equal amount species blood and blood roses nectar in a mortar, then magic split with a mana glove to make essences.
+        [bullet]Add 1u to the mix of essence you want more of, put it all in the solution cleaner, make sure you turn it off when it's cleansed.
+
+
+[head=3]Ingredients[/head]
+
+Alchemical ingredients or plants (and quartz, though there should be a barrel full of it somewhere in the shop)
+can be found around town, use a sharp object to gather them.
+Bring these back as these are useful for advanced potion recipes and potion cleansing techniques.
+
+[head=3]Wood[/head]
+
+Wood is used for many things by the alchemist, go outside the town (be wary of monsters lurking around)
+and gather some wood using a sickle or dagger if you don't have an axe.
+
+Here's some alchemist's use for wood:
+[bullet]Making barrels to hold liquids.
+[bullet]Feeding the furnace to heat up solutions.
+[bullet]Making a workbench & wood tools with it.
+
