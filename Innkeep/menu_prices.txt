@@ -1,0 +1,63 @@
+
+[head=1]                       Menu[/head]
+[head=2]===================================[/head]
+[head=2]Food[/head]
+
+[head=3]Bread[/head]
+├ Bread Loaf - [color=Chocolate]4c[/color]
+└ Bread Bun - [color=Chocolate]2c[/color]
+
+[head=3]Vegetable goodies[/head]
+├ Green Salad - [color=Silver]1s[/color]
+├ Cucumber - [color=Chocolate]4c[/color] 
+├ Tomato - [color=Chocolate]3c[/color] 
+├ Cabbage - [color=Chocolate]4c[/color]
+└ Potato - [color=Chocolate]2c[/color]
+(Return plates when finished)
+
+[head=3]Meat[/head]
+├ Rabbit [color=Chocolate]1c[/color]
+├ Mole - [color=Chocolate]2c[/color]
+├ Boar - [color=Chocolate]4c[/color] 
+├ Frog - [color=Chocolate]2c[/color]
+├ Hydra - [color=Chocolate]6c[/color]
+└ Lamb - [color=Chocolate]6c[/color]
+
+[head=3]Food Slices[/head]
+├ Bread Slices -  [color=Chocolate]1c[/color]
+├ Apple Slices -  [color=Chocolate]1c[/color]
+├ Meat Pieces -  [color=Chocolate]2c[/color]
+├ Cheese Slices -  [color=Chocolate]2c[/color]
+├ Pumpkin Slices -  [color=Chocolate]1c[/color]
+├ Tomato Slices -  [color=Chocolate]1c[/color]
+└ Cabbage Leaves -  [color=Chocolate]1c[/color]
+
+[head=3]Pies[/head]
+├ Pumpkin - [color=Silver]1s[/color]
+├ Apple - [color=Silver]1s[/color] [color=Chocolate]3c[/color]
+├ Meat - [color=Silver]1s[/color] [color=Chocolate]2c[/color]
+└ Fish - [color=Silver]1s[/color] [color=Chocolate]6c[/color]
+(Return tins when finished)
+
+[head=3]Sandwiches[/head]
+Starting from [color=Chocolate]6c[/color] with meat and buns:
+(Initial ingredients can be excluded.)
+[bullet] Veggie Add-on: +[color=Chocolate]1c[/color]
+[bullet] Meat Add-on: +[color=Chocolate]2c[/color]
+[bullet] Diary Add-on: +[color=Chocolate]2c[/color]
+
+[head=2]Drinks[/head]
+
+[head=3]Non-booze[/head]
+[bullet] Water - free
+
+[head=3]Booze[/head]
+[bullet] Ale - [color=Chocolate]4c[/color]
+├ Bloody Tears
+└ Bottomless
+[bullet] Beer - [color=Chocolate]4c[/color]
+├ Blow Law
+├ Breeze
+├ Joy of the Deep
+└ Gerbil
+[head=3]------------------------------------------------------------------[/head]
