@@ -7,7 +7,7 @@
 [color=#7dad60][italic]                        	In plantis confidimus, in vita sequimur.[/italic][/color]
 
 
-[bold][head=1][italic]                        	Prices(-25% brad's)[/italic][/head][/bold]
+[bold][head=1][italic]           	Prices(-25% brad's)[/italic][/head][/bold]
 
 [bold]Glossary:[/bold]
 [bullet] Purity: Percentile for which the main solution is in the potion.
