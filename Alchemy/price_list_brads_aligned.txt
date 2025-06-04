@@ -11,13 +11,13 @@
 
 [bold]Glossary:[/bold]
 [bullet] Purity: Percentile for which the main solution is in the potion.
-[bullet] Most prices are based on raw [bold]merchant[/bold] value (brad's) and [bold]may vary[/bold] depending on current [bold]blacksmith[/bold] / [bold]merchant[/bold] prices.
+[bullet] Most prices are based on raw [bold]merchant[/bold] rates (brad's) and [bold]may vary[/bold] depending on current [bold]blacksmith[/bold] / [bold]merchant[/bold] prices.
 [bullet] All volume prices are as follows: 5u / 10u / 50u
 [bullet] All prices can be bartered with Alchemical Ingredients (cf.[bold]Sought out plants[/bold]).
 [bullet] Discounts will be granted if potions are bought in bulk or favored for returned customers.
 [bullet] Currency:
     [bullet] [color=#a44322]c[/color] = Copper
-    [bullet] [color=#636363]s[/color] = Silver
+    [bullet] [color=#c3c5cd]s[/color] = Silver
     [bullet] [color=#da9100]g[/color] = Gold
 [bullet][bold][color=#1eff00]All healing services (including resurrection) at the shop are FREE, just ask.[/color][/bold]
 
@@ -26,11 +26,11 @@ Vial costs [bold]are added[/bold] to solution costs [bold]if you do not provide 
 [bold][color=#976937]Reinforced[/color][/bold] vials do not break if thrown or while being blown up.
 [bullet]Tiny (5u): [color=#a44322]2c[/color]
 [bullet]Small (10u): [color=#a44322]4c[/color]
-[bullet]Medium (50u): [color=#636363]1s[/color]
-[bullet][bold][color=#976937]Reinforced[/color][/bold] Tiny (5u): [color=#636363]1.5s[/color]
-[bullet][bold][color=#976937]Reinforced[/color][/bold] Small (10u): [color=#636363]1.8s[/color]
-[bullet][bold][color=#976937]Reinforced[/color][/bold] Medium (50u): [color=#636363]2.4s[/color]
-[bullet][bold][color=#cfa959]Alchemical bomb[/color][/bold] (10u reagent cloud ([bold]Destroyed on use![/bold])): [color=#636363]7.6s[/color]
+[bullet]Medium (50u): [color=#c3c5cd]1s[/color]
+[bullet][bold][color=#976937]Reinforced[/color][/bold] Tiny (5u): [color=#c3c5cd]1.5s[/color]
+[bullet][bold][color=#976937]Reinforced[/color][/bold] Small (10u): [color=#c3c5cd]1.8s[/color]
+[bullet][bold][color=#976937]Reinforced[/color][/bold] Medium (50u): [color=#c3c5cd]2.4s[/color]
+[bullet][bold][color=#cfa959]Alchemical bomb[/color][/bold] (10u reagent cloud ([bold]Destroyed on use![/bold])): [color=#c3c5cd]7.6s[/color]
 
 
 [head=2][color=#cc0002]P[color=#fce556]O[color=#0070dd]T[color=#82d254]I[color=#1eff00]O[color=#87cbde]N[color=#cc0002]S[/color][/color][/color][/color][/color][/color][/color][/head] (To take with you on your adventures)
@@ -40,7 +40,7 @@ Vial costs [bold]are added[/bold] to solution costs [bold]if you do not provide 
 
 [italic]Increased muscle tone, allowing creatures to move and react faster than normal.[/italic]
  
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.5s[/color] / [color=#636363]3s[/color] / [color=#da9100]1.5g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#c3c5cd]1.5s[/color] / [color=#c3c5cd]3s[/color] / [color=#da9100]1.5g[/color]
     	[bullet] Side effect([bold]25[/bold]%): Jittering
 
 
@@ -48,18 +48,18 @@ Vial costs [bold]are added[/bold] to solution costs [bold]if you do not provide 
 
 [italic]A refreshing liquid that saturates the body with air.[/italic]
  
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.7s[/color] / [color=#636363]3.4s[/color] / [color=#da9100]1.7g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#c3c5cd]1.7s[/color] / [color=#c3c5cd]3.4s[/color] / [color=#da9100]1.7g[/color]
     	[bullet] Side effect([bold]25[/bold]%): Coughing
-[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]60[/bold]% purity): [color=#636363]4.2s[/color] / [color=#636363]8.4s[/color] / [color=#da9100]4.2g[/color]
+[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]60[/bold]% purity): [color=#c3c5cd]4.2s[/color] / [color=#c3c5cd]8.4s[/color] / [color=#da9100]4.2g[/color]
     	[bullet] Side effect([bold]20[/bold]%): Minor drunkness (contains booze)
-[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#636363]7s[/color] / [color=#da9100]1.4g[/color] / [color=#da9100]7g[/color]
+[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#c3c5cd]7s[/color] / [color=#da9100]1.4g[/color] / [color=#da9100]7g[/color]
 
 
 [bold][color=#82d254]Antidote[/bold][/color] (Merchant([bold]10[/bold]% purity): [color=#a44322]7c[/color]/u):
 
 [italic]An effective antidote used for treating most common poisons.[/italic]
  
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.7s[/color] / [color=#636363]3.4s[/color] / [color=#da9100]1.7g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#c3c5cd]1.7s[/color] / [color=#c3c5cd]3.4s[/color] / [color=#da9100]1.7g[/color]
     	[bullet] Side effect([bold]25[/bold]%): Coughing
 
 
@@ -67,7 +67,7 @@ Vial costs [bold]are added[/bold] to solution costs [bold]if you do not provide 
 
 [italic]Coming into contact with the body restores blood levels of the same type used by that body.[/italic]
  
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.2s[/color] / [color=#636363]2.4s[/color] / [color=#da9100]1.2g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#c3c5cd]1.2s[/color] / [color=#c3c5cd]2.4s[/color] / [color=#da9100]1.2g[/color]
     	[bullet] Side effect([bold]25[/bold]%): Minor hallucinations
 
 
@@ -75,31 +75,31 @@ Vial costs [bold]are added[/bold] to solution costs [bold]if you do not provide 
 
 [italic]Heals all cuts and bruises, also reduces bleeding ([bold]does not heal heartbreak...[/bold]).[/italic]
  
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.5s[/color] / [color=#636363]3s[/color] / [color=#da9100]1.5g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#c3c5cd]1.5s[/color] / [color=#c3c5cd]3s[/color] / [color=#da9100]1.5g[/color]
     	[bullet] Side effect([bold]25[/bold]%): Coughing
-[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]53.3[/bold]% purity): [color=#636363]3.2s[/color] / [color=#636363]6.4s[/color] / [color=#da9100]3.2g[/color]
+[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]53.3[/bold]% purity): [color=#c3c5cd]3.2s[/color] / [color=#c3c5cd]6.4s[/color] / [color=#da9100]3.2g[/color]
     	[bullet] Side effect([bold]40[/bold]%): Minor hallucinations
     	[bullet] Side effect([bold]6.4[/bold]%): Coughing
-[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#636363]6s[/color] / [color=#da9100]1.2g[/color] / [color=#da9100]6g[/color]
+[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#c3c5cd]6s[/color] / [color=#da9100]1.2g[/color] / [color=#da9100]6g[/color]
 
 
 [bold][color=#0070dd]Liquid mana solution[/bold][/color] (Merchant ([bold]10[/bold]% purity): [color=#a44322]8c[/color]/u):
 
 [italic]A substance that causes a rapid regeneration of magical energy in the body. ([bold]Keep these away from crazy magicians![/bold])[/italic]
 
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]2s[/color] / [color=#636363]4s[/color] / [color=#da9100]2g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#c3c5cd]2s[/color] / [color=#c3c5cd]4s[/color] / [color=#da9100]2g[/color]
     	[bullet] Side effects([bold]25[/bold]%): Also restores mana induced wounds.
-[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]62.4[/bold]% purity): [color=#636363]5s[/color] / [color=#636363]1g[/color] / [color=#da9100]5g[/color]
+[bullet] [color=#0070dd][bold]Medium[/bold][/color] ([bold]62.4[/bold]% purity): [color=#c3c5cd]5s[/color] / [color=#da9100]1g[/color] / [color=#da9100]5g[/color]
     	[bullet] Side effect([bold]25.2[/bold]%): Minor drunkness (contains booze)
     	[bullet] Side effect([bold]12.4[/bold]%): Coughing
-[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#636363]8s[/color] / [color=#da9100]1.6g[/color] / [color=#da9100]8g[/color]
+[bullet] [color=#ff8000][bold]Major[/bold][/color] ([bold]100[/bold]% purity): [color=#c3c5cd]8s[/color] / [color=#da9100]1.6g[/color] / [color=#da9100]8g[/color]
 
 
 [bold][color=#87cbde]Mana healing solution[/bold][/color] (Merchant ([bold]10[/bold]% purity): [color=#a44322]7c[/color]/u):
 
 [italic]A liquid that affects the mana within the body, revitalising areas dried up by mana.[/italic]
 
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]1.7s[/color] / [color=#636363]3.4s[/color] / [color=#da9100]1.7g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#c3c5cd]1.7s[/color] / [color=#c3c5cd]3.4s[/color] / [color=#da9100]1.7g[/color]
     	[bullet] Side effects([bold]25[/bold]%): Restores mana
 
 [bold]All the rest[/bold] (Merchant: [bold]None[/bold]):
@@ -116,5 +116,5 @@ Vial costs [bold]are added[/bold] to solution costs [bold]if you do not provide 
 
 These are pretty unusual so slightly more expensive.
 
-[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#636363]3s[/color] / [color=#636363]6s[/color] / [color=#da9100]3g[/color]
+[bullet] [color=#1eff00][bold]Minor[/bold][/color] ([bold]25[/bold]% purity): [color=#c3c5cd]3s[/color] / [color=#c3c5cd]6s[/color] / [color=#da9100]3g[/color]
     	[bullet] Side effects(25%): Depends on the solution (ask alchemist)
