@@ -7,13 +7,11 @@
 ├ Bread Loaf - [color=Chocolate]4c[/color]
 └ Bread Bun - [color=Chocolate]2c[/color]
 
-[head=3]Vegetable goodies[/head]
-├ Green Salad - [color=Silver]1s[/color]
+[head=3]Herbal Goods[/head]d
 ├ Cucumber - [color=Chocolate]4c[/color] 
 ├ Tomato - [color=Chocolate]3c[/color] 
 ├ Cabbage - [color=Chocolate]4c[/color]
 └ Potato - [color=Chocolate]2c[/color]
-(Return plates when finished)
 
 [head=3]Meat[/head]
 ├ Rabbit [color=Chocolate]1c[/color]
@@ -32,6 +30,23 @@
 ├ Tomato Slices -  [color=Chocolate]1c[/color]
 └ Cabbage Leaves -  [color=Chocolate]1c[/color]
 
+[head=3]Fried Foods[/head]
+├ Omlettes - [color=Silver]1s[/color]
+├ Herbal Salad - [color=Silver]1s[/color]
+└ Meats - [color=Silver]1s[/color]
+[color=Navy]You may request any specific meats or herbs as long as we have them.[/color]
+[bullet] Herb Add-on: +[color=Chocolate]1c[/color]
+[bullet] Meat Add-on: +[color=Chocolate]2c[/color]
+[bullet] Diary Add-on: +[color=Chocolate]2c[/color]
+(Return plate when finished)
+
+[head=3]Soup[/head]
+├ Meat [color=Chocolate]4c[/color]
+├ Herb [color=Chocolate]4c[/color]
+└ Meat with Herb [color=Chocolate]5c[/color]
+[color=Navy]You may request any specific meats or herbs as long as we have them.[/color]
+(Return bowls when finished)
+
 [head=3]Pies[/head]
 ├ Pumpkin - [color=Silver]1s[/color]
 ├ Apple - [color=Silver]1s[/color] [color=Chocolate]3c[/color]
@@ -42,7 +57,7 @@
 [head=3]Sandwiches[/head]
 Starting from [color=Chocolate]6c[/color] with meat and buns:
 (Initial ingredients can be excluded.)
-[bullet] Veggie Add-on: +[color=Chocolate]1c[/color]
+[bullet] Herb Add-on: +[color=Chocolate]1c[/color]
 [bullet] Meat Add-on: +[color=Chocolate]2c[/color]
 [bullet] Diary Add-on: +[color=Chocolate]2c[/color]
 
@@ -60,4 +75,9 @@ Starting from [color=Chocolate]6c[/color] with meat and buns:
 ├ Breeze
 ├ Joy of the Deep
 └ Gerbil
+[bullet] Wine - [color=Chocolate]4c[/color]
+├ Durandate
+├ Leeks
+└ Zellasian
+
 [head=3]------------------------------------------------------------------[/head]
