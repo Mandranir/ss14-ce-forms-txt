@@ -24,13 +24,15 @@
 [bold][color=#a8ccd7]Vials[/color][/bold] (varies with merchant & blacksmith prices)
 Vial costs [bold]are added[/bold] to solution costs [bold]if you do not provide them[/bold].
 [bold][color=#976937]Reinforced[/color][/bold] vials do not break if thrown or while being blown up.
-[bullet]Tiny (5u): [color=#a44322]2c[/color]
-[bullet]Small (10u): [color=#a44322]4c[/color]
-[bullet]Medium (50u): [color=#c3c5cd]1s[/color]
-[bullet][bold][color=#976937]Reinforced[/color][/bold] Tiny (5u): [color=#c3c5cd]1.5s[/color]
-[bullet][bold][color=#976937]Reinforced[/color][/bold] Small (10u): [color=#c3c5cd]1.8s[/color]
-[bullet][bold][color=#976937]Reinforced[/color][/bold] Medium (50u): [color=#c3c5cd]2.4s[/color]
-[bullet][bold][color=#cfa959]Alchemical bomb[/color][/bold] (10u reagent cloud ([bold]Destroyed on use![/bold])): [color=#c3c5cd]7.6s[/color]
+[bullet]Tiny (5u): [color=#a44322]4c[/color]
+[bullet]Small (10u): [color=#a44322]7c[/color]
+[bullet]Skull (10u): [color=#a44322]9c[/color]
+[bullet]Medium (50u): [color=#c3c5cd]1.2s[/color]
+[bullet][bold][color=#976937]Reinforced[/color][/bold] Tiny (5u): [color=#c3c5cd]2.8s[/color]
+[bullet][bold][color=#976937]Reinforced[/color][/bold] Small (10u): [color=#c3c5cd]2.4s[/color]
+[bullet][bold][color=#976937]Reinforced[/color][/bold] Skull (10u): [color=#c3c5cd]3.1s[/color]
+[bullet][bold][color=#976937]Reinforced[/color][/bold] Medium (50u): [color=#c3c5cd]3.9s[/color]
+[bullet][bold][color=#cfa959]Alchemical bomb[/color][/bold] (10u reagent cloud ([bold]Destroyed on use![/bold])): [color=#c3c5cd]7.1s[/color]
 
 
 [head=2][color=#cc0002]P[color=#fce556]O[color=#0070dd]T[color=#82d254]I[color=#1eff00]O[color=#87cbde]N[color=#cc0002]S[/color][/color][/color][/color][/color][/color][/color][/head] (To take with you on your adventures)
